@@ -12,13 +12,11 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on : Nothing
+🔭 I’m currently working on : ...
   
-🌱 I’m currently learning : CV using OpenCV python
+🌱 I’m currently learning : ...
 
   👯 I’m open to collaborate with anyone
-
-  🤔 I’m Not looking for help
 
   💬 Ask me about for any help
 
