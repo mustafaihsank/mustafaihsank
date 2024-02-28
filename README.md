@@ -10,9 +10,9 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on : ...
+🔭 I’m currently working on : Vu
   
-🌱 I’m currently learning : ...
+🌱 I’m currently learning : IoT project based on Vue 3 using Composition API and TypeScript
 
   👯 I’m open to collaborate with anyone
 
