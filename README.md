@@ -3,7 +3,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
   Welcome to Mustafa Ihsan's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
 
 ---
@@ -37,7 +37,8 @@ Next.js, Node.js, Express.js, MongoDB
 
 ## Backend
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="75" height="75"/> </a>
+$\colorbox{gray}{{\color{black}{<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="75" height="75"/> </a>}}}$
+
 <a href="https://mongodb.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> </a>
 <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="75" height="75"/> </a>
 <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a>
