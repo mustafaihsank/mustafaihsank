@@ -37,7 +37,11 @@ Next.js, Node.js, Express.js, MongoDB
 
 ## Backend
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="background-color: #f0f0f0;" width="75" height="75"/> </a>
+<div style="background-color: #f0f0f0; display: inline-block; padding: 10px;">
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://githubraw.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="75" height="75"/> 
+  </a>
+</div>
 <a href="https://mongodb.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> </a>
 <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="75" height="75"/> </a>
 <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://githubraw.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a>
