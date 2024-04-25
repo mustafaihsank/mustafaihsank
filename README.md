@@ -14,7 +14,7 @@
 IoT project based on Vue 3 using Composition API and TypeScript
   
 🌱 I’m currently learning :
-Next.js, Node.js, Express.js, MongoDB
+Next.js, Nuxt.js, Node.js, Express.js, MongoDB, Docker
 
   👯 I’m open to collaborate with anyone
 
