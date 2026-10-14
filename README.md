@@ -4,7 +4,7 @@
 
 **Junior SOC Analyst · CompTIA Security+ · TryHackMe SAL1**
 
-Former frontend developer (2.5 years at grandcentrix, a Vodafone company) now working in security operations.
+Former frontend developer (2.5 years at grandcentrix, a Vodafone company), now building hands-on skills for an entry-level SOC role.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaihsankabakcili)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mustafaihsan)
